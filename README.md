@@ -28,7 +28,7 @@ Detailed description of annotation specification can be seen here.
 * Download links for 2k sample images and annotations
   * Baidu Cloud
   * Google Cloud
-* Download remaining 18K images and annotations:
+* 18K images and annotations:
   * will release soon
   * Application Only. Please send an application to our Email address. The template of application can be seen here
 
