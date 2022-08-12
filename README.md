@@ -30,7 +30,8 @@ The images in this dataset were Arround-view images synthesized from four fishey
   * Baidu Cloud
   * Google Cloud
 * Download remaining 18K images and annotations:
-  * Please send an application to our Email address. The template of application can be seen here.
+  * Please send an application to our Email address
+  * The template of application can be seen here
 
 ## Terms of Use
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
