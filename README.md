@@ -24,7 +24,7 @@ The images in this dataset were Arround-view images synthesized from four fishey
 
 ## How to Download
 
-* Dwonload links for 2k sample images and annotations
+* Download links for 2k sample images and annotations
   * Baidu Cloud
   * Google Cloud
 * Download remaining 18K images and annotations:
