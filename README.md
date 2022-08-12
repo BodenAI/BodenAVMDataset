@@ -30,6 +30,10 @@ The images in this dataset were Arround-view images synthesized from four fishey
 * Semantic Segmentation (planning)
 * Detailed description of annotation specification can be seen here.
 
+**Planning**
+- [x] release images and annotations
+- [ ] release visualization script
+
 ## How to Download
 
 * Download links for 2k sample images and annotations
