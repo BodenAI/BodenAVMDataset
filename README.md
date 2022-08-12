@@ -23,15 +23,14 @@ The images in this dataset were Arround-view images synthesized from four fishey
 * Freespace (planning)
 * Semantic Segmentation (planning)
 
-**Planning**:
-* Release 2k images and annotations
-
 
 ## How to Download
 
-* Dwonload links
+* Dwonload links for 2k sample images and annotations
   * Baidu Cloud
   * Google Cloud
+* Download remaining 18K images and annotations:
+  * Please send an application to our Email address. The template of application can be seen here.
 
 ## Terms of Use
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
