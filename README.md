@@ -13,6 +13,7 @@ Planning:
 * release 2k images and annotations for parking slot detection 
 
 This figure shows our fully equipped vehicle:
+![](figures/vehicle.png)
 
 ## How to Download
 
