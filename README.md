@@ -2,9 +2,18 @@
 
 ## Introduction
 
-Boden Around View Monitor Dataset is a newly large-scale dataset for study and application purpose. It contains 20k images with mannully labeled annotations. The images in this dataset were Arround-view images synthesized from four fisheye cameras. 
+Boden Around View Monitor Dataset is a newly large-scale dataset for study and application purpose. It contains 20k images with mannully labeled annotations. 
 
-**Sensor setup and fully equipped vehicle**:
+The images in this dataset were Arround-view images synthesized from four fisheye cameras. Detailed description of images:
+* Resolution: 1024*1024
+* View Range: 15m*15m
+
+**Sensor setup**:
+* Fisheye Camera
+  * HFOV: 216
+  * VFOV: 124
+  * 
+and fully equipped vehicle:
 ![](figures/vehicle.png)
 
 **Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
@@ -15,10 +24,8 @@ Boden Around View Monitor Dataset is a newly large-scale dataset for study and a
 * Semantic Segmentation (planning)
 
 **Planning**:
-* Release 2k images and annotations for parking slot detection
-* Release 20k images and annotations for parking slot detection
-* Release Freespace annotations
-* Release Semantic Segmentation annotations 
+* Release 2k images and annotations
+
 
 ## How to Download
 
