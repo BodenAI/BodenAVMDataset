@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Boden Around View Monitor Dataset is a newly large-scale dataset for study and application purpose. It contains 20k sourround view images with mannully labeled annotations.
+
 ## How to Download
 
 ## Terms of Use
