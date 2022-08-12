@@ -1,4 +1,4 @@
-# Boden Around View Monitor Dataset
+<img src="figures/logo.png" height="120">
 
 ## Introduction
 
