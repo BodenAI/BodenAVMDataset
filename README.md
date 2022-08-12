@@ -21,6 +21,7 @@ The images in this dataset were Arround-view images synthesized from four fishey
 * Freespace (planning)
 * Semantic Segmentation (planning)
 
+Detailed description of annotation specification can be seen here.
 
 ## How to Download
 
@@ -35,8 +36,6 @@ The images in this dataset were Arround-view images synthesized from four fishey
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
 
 ## About Us
-BodenAI is an industry-leading provider for closed-loop toolchains in autonomous driving data. If you have any suggestion about the dataset, find any mistakes in annotations, or want commercial cooperation, please contact us.
-
-## Email address
-company@bodenai.com
+BodenAI is an industry-leading provider for closed-loop toolchains in autonomous driving data. 
+If you have any suggestion about the dataset, find any mistakes in annotations, or want commercial cooperation, please contact us. Email address: company@bodenai.com
 
