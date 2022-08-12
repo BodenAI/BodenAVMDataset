@@ -44,5 +44,5 @@ The images and annotations of this dataset are licensed under a [Creative Common
 
 ## About Us
 BodenAI is an industry-leading provider for closed-loop toolchains in autonomous driving data. 
-If you have any suggestion about the dataset, find any mistakes in annotations, or want commercial cooperation, please contact us. Email address: company@bodenai.com
+For business inquiries, professional support requests, or mistakes in annotations submmision, please contact us. Email address: company@bodenai.com
 
