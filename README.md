@@ -20,8 +20,7 @@ The images in this dataset were Arround-view images synthesized from four fishey
 * Parking Slot (released)
 * Freespace (planning)
 * Semantic Segmentation (planning)
-
-Detailed description of annotation specification can be seen here.
+* Detailed description of annotation specification can be seen here.
 
 ## How to Download
 
