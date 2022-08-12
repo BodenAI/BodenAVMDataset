@@ -9,12 +9,12 @@ The images in this dataset were Arround-view images synthesized from four fishey
 * View Range: 15m*15m
 
 **Sensor setup**:
-* Fisheye Camera
+* Fisheye Cameras: SG2-IMX390C-GMSL2-H190s
   * HFOV: 216
   * VFOV: 124
-  * 
-and fully equipped vehicle:
-![](figures/vehicle.png)
+  * Resolution: 1920*1080
+* Fully equipped vehicle is shown in figure:
+  ![](figures/vehicle.png)
 
 **Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
 
