@@ -1,4 +1,6 @@
-<img src="figures/logo.png" height="120">
+<p align="left">
+  <img src="figures/logo.png" height="150">
+</p>
 
 ## Introduction
 
@@ -7,12 +9,18 @@
 The images in this dataset were Arround-view images synthesized from four fisheye cameras. Detailed description of images:
 * Resolution: 1024 x 1024
 * View Range: 15m x 15m
+* Sample video
 
 **Sensor setup**:
 * Fisheye Cameras: SG2-IMX390C-GMSL2-H190s
   * HFOV: 216
   * VFOV: 124
   * Resolution: 1920 x 1080
+* Our fully equipped vehicle is shown in the figure:
+
+  <p align="left">
+    <img src="figures/vehicle.png">
+  </p>
 
 **Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
 
