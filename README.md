@@ -5,14 +5,14 @@
 Boden Around View Monitor Dataset is a newly large-scale dataset for study and application purpose. It contains 20k images with mannully labeled annotations. 
 
 The images in this dataset were Arround-view images synthesized from four fisheye cameras. Detailed description of images:
-* Resolution: 1024*1024
-* View Range: 15m*15m
+* Resolution: 1024 x 1024
+* View Range: 15m x 15m
 
 **Sensor setup**:
 * Fisheye Cameras: SG2-IMX390C-GMSL2-H190s
   * HFOV: 216
   * VFOV: 124
-  * Resolution: 1920*1080
+  * Resolution: 1920 x 1080
 * Fully equipped vehicle is shown in figure:
   ![](figures/vehicle.png)
 
