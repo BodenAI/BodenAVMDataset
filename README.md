@@ -3,23 +3,23 @@
 </p>
 
 <div align="center">
-    <b><font size="5">an industry-leading data provider in autonomous driving field</font></b>
+    <b><font size="5">An industry-leading data provider in autonomous driving field</font></b>
   </div>
 
 ## Introduction
 
-**Boden Around View Monitor Dataset** is a large-scale open source dataset for academic and industrial purpose, which consists of 20k desensitized images with mannully labeled annotations. 
+**Boden Around View Monitor Dataset** is a large-scale open source dataset for academic and industrial purpose, which consists of 20k desensitized images with fully labeled annotations. 
 
-The images in this dataset are Around-view images synthesized from four fisheye cameras. Detailed description of images:
+The images in this dataset are around-view images synthesized from four fisheye cameras. The detailed description of images are as follows:
 * Resolution: 1024 x 1024 pixels
 * View Range: 15m x 15m
-* Sample video of stitching images from 4 fish-eye cameras
-* All images are anonymized to protect private information.
+* Sample video of stitching images from 4 fisheye cameras
+* All images are anonymized to protect private information, such as number plates, faces and etc.
 
   [![sample video](http://img.youtube.com/vi/ejiigCk7eM0/0.jpg)](https://www.youtube.com/watch?v=ejiigCk7eM0)
 
 **Sensor setup**:
-* Fisheye Cameras: SG2-IMX390C-GMSL2-H190s
+* Fisheye cameras: SG2-IMX390C-GMSL2-H190s
   * HFOV: 216°
   * VFOV: 124°
   * Resolution: 1920 x 1080 pixels
@@ -28,13 +28,13 @@ The images in this dataset are Around-view images synthesized from four fisheye 
   <img src="figures/sensor_setup.png" height="300">
   </p>
 
-**Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
+**Scenes**: The dataset was recorded in various indoor and outdoor parking sites. In order to cover scenes as much as we can, different illumination conditions and weather conditions were considered while collecting the data. Following are some examples: 
 * Underground Parking lot
 * Indoor Parking Building
 * Surface Parking lot
 * Roadside Parking lot
 
-**Annotations**: The dataset has annotations for
+**Annotations**: Annotations of the dataset have following forms:
 * Parking Slot (released)
 * Freespace (planning)
 * Semantic Segmentation (planning)
