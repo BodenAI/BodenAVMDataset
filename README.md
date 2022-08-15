@@ -20,7 +20,10 @@ The images in this dataset are Around-view images synthesized from four fisheye 
   * Resolution: 1920 x 1080
 
 **Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
-* Underground Parking site
+* Underground Parking lot
+* Indoor Parking Building
+* Surface Parking lot
+* Roadside Parking lot
 
 **Annotations**: The dataset has annotations for
 * Parking Slot (released)
