@@ -41,7 +41,7 @@ The images in this dataset are Around-view images synthesized from four fisheye 
   * Baidu Cloud
   * Google Cloud
 * 18K images and annotations:
-  * will release soon （1st/Sep/2022）
+  * will be release soon （1st/Sep/2022）
   * Application Only. Please send an application to our Email address. The template of application can be seen here
 
 ## Terms of Use
