@@ -18,11 +18,6 @@ The images in this dataset are Around-view images synthesized from four fisheye 
   * HFOV: 216
   * VFOV: 124
   * Resolution: 1920 x 1080
-* Our fully equipped vehicle is shown in the figure:
-
-  <p align="left">
-    <img src="figures/vehicle.png">
-  </p>
 
 **Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
 
