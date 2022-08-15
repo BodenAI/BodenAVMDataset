@@ -14,6 +14,7 @@ The images in this dataset are Around-view images synthesized from four fisheye 
 * Resolution: 1024 x 1024 pixels
 * View Range: 15m x 15m
 * Sample video of stitching images from 4 fish-eye cameras
+* All images are anonymized to protect private information.
 
   [![sample video](http://img.youtube.com/vi/ejiigCk7eM0/0.jpg)](https://www.youtube.com/watch?v=ejiigCk7eM0)
 
@@ -49,12 +50,12 @@ The images in this dataset are Around-view images synthesized from four fisheye 
   * Baidu Cloud
   * Google Cloud
 * 18K images and annotations:
-  * will be released soon （1st/Sep/2022）
-  * Application Only. Please send an application to our Email address. The template of application can be seen here
+  * will be released soon （1st/Sep/2022）.
+  * Application Only. Please send an application to our email address. The template of application can be seen here.
 
 ## Terms of Use
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
 
 ## Contact Us
-For mistakes in annotations submmision, professional support requests, or commercial cooperation, please contact us. Email address: company@bodenai.com
+For mistakes in annotations submmision, professional support requests, or commercial cooperation, please contact us through the email address: company@bodenai.com.
 
