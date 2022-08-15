@@ -8,9 +8,9 @@
 * **Corner Points**: The four corner points of the parking slot are defined in the counterclockwise direction, and the starting point (named 1) and the end point (named 4) are in the entry line. The points named 2 and 4 are used to determine the angle of the parking slot. Examples are shown in figure:
 
 <p align="center">
-  <img src="../figures/slot1.png" height="350">
-  <img src="../figures/slot2.png" height="350">
-  <img src="../figures/slot3.png" height="250">
+  <img src="../figures/slot1.png" width="350">
+  <img src="../figures/slot2.png" width="350">
+  <img src="../figures/slot3.png" width="300">
 </p>
 
 
