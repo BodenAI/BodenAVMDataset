@@ -11,7 +11,7 @@ The images in this dataset are Around-view images synthesized from four fisheye 
 * View Range: 15m x 15m
 * Sample video
 
-  [![sample video](http://img.youtube.com/vi/djiigCk7eM0/0.jpg)](https://www.youtube.com/watch?v=djiigCk7eM0)
+  [![sample video](http://img.youtube.com/vi/ejiigCk7eM0/0.jpg)](https://www.youtube.com/watch?v=ejiigCk7eM0)
 
 **Sensor setup**:
 * Fisheye Cameras: SG2-IMX390C-GMSL2-H190s
