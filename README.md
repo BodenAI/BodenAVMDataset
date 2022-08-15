@@ -20,6 +20,7 @@ The images in this dataset are Around-view images synthesized from four fisheye 
   * Resolution: 1920 x 1080
 
 **Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
+* Underground Parking site
 
 **Annotations**: The dataset has annotations for
 * Parking Slot (released)
@@ -37,7 +38,7 @@ The images in this dataset are Around-view images synthesized from four fisheye 
   * Baidu Cloud
   * Google Cloud
 * 18K images and annotations:
-  * will release soon
+  * will release soon （1st/Sep/2022）
   * Application Only. Please send an application to our Email address. The template of application can be seen here
 
 ## Terms of Use
