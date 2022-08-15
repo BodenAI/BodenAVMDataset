@@ -2,6 +2,10 @@
   <img src="figures/logo.png" height="150">
 </p>
 
+<div align="center">
+    <b><font size="5">an industry-leading data provider in autonomous driving field</font></b>
+  </div>
+
 ## Introduction
 
 **Boden Around View Monitor Dataset** is a large-scale open source dataset for academic and industrial purpose, which consists of 20k desensitized images with mannully labeled annotations. 
@@ -51,7 +55,6 @@ The images in this dataset are Around-view images synthesized from four fisheye 
 ## Terms of Use
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
 
-## About Us
-BodenAI is an industry-leading provider for closed-loop toolchains in autonomous driving data. 
+## Contact Us
 For mistakes in annotations submmision, professional support requests, or commercial cooperation, please contact us. Email address: company@bodenai.com
 
