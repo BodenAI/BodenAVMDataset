@@ -15,8 +15,8 @@ The images in this dataset are Around-view images synthesized from four fisheye 
 
 **Sensor setup**:
 * Fisheye Cameras: SG2-IMX390C-GMSL2-H190s
-  * HFOV: 216
-  * VFOV: 124
+  * HFOV: 216°
+  * VFOV: 124°
   * Resolution: 1920 x 1080
 
 **Scenes**: The dataset was recorded in various indoor and outdoor parking sites. When collecting outdoor data, different illumination conditions and weather conditions were considered. 
