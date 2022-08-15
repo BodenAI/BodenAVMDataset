@@ -7,9 +7,9 @@
 **Boden Around View Monitor Dataset** is a large-scale open source dataset for academic and industrial purpose, which consists of 20k images with mannully labeled annotations. 
 
 The images in this dataset are Around-view images synthesized from four fisheye cameras. Detailed description of images:
-* Resolution: 1024 x 1024
+* Resolution: 1024 x 1024 pixels
 * View Range: 15m x 15m
-* Sample video
+* Sample video of stitching images from 4 fish-eye cameras
 
   [![sample video](http://img.youtube.com/vi/ejiigCk7eM0/0.jpg)](https://www.youtube.com/watch?v=ejiigCk7eM0)
 
