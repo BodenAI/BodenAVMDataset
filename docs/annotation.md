@@ -28,13 +28,13 @@
   * T
 
   <p align="left">
-  <img src="../figures/T.png" height="150">
+  <img src="../figures/T.png" height="200">
   </p>
   
   * L
 
   <p align="left">
-  <img src="../figures/L.png" height="150">
+  <img src="../figures/L.png" height="200">
   </p>
   
   * I
