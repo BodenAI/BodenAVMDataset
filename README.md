@@ -56,7 +56,7 @@ The images in this dataset are around-view images synthesized from four fisheye 
   * Google Cloud
 * 18K images and annotations:
   * will be released soon （1st/Sep/2022）.
-  * Application Only. Please send an application to our email address. The template of application can be seen here.
+  * Application Only. Please send an application to our email address (company@bodenai.com). The template of application can be seen [here](docs/Application_template.docx).
 
 ## Terms of Use
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
