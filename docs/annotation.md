@@ -19,7 +19,7 @@
 <p align="center">
   <img src="../figures/slot1.png" width="350">
   <img src="../figures/slot2.png" width="350">
-  <img src="../figures/slot3.png" width="150">
+  <img src="../figures/slot3.png" width="180">
 </p>
 
 
