@@ -52,7 +52,7 @@ The images in this dataset are around-view images synthesized from four fisheye 
 ## How to Download
 
 * Download links for 2k sample images and annotations
-  * Baidu Cloud
+  * [Baidu Cloud](https://pan.baidu.com/s/14SOdWhwHweOhCI6By9i9Ww), Code:40pt
   * Google Cloud
 * 18K images and annotations:
   * will be released soon （1st/Sep/2022）.
