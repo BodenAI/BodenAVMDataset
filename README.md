@@ -11,9 +11,14 @@
     </sup>
   </div>
 
+<div align="center">
+  English | [简体中文](README_zh-CN.md)
+  </div>
+
+
 ## Introduction
 
-**Boden Around View Monitor Dataset** is a large-scale open source dataset for academic and industrial purpose, which consists of 20k desensitized images with fully labeled annotations. 
+**Boden Around View Monitor Dataset** is an open source dataset for academic and industrial purpose, which consists of 20k desensitized images with fully labeled annotations. 
 
 The images in this dataset are around-view images synthesized from four fisheye cameras. The detailed description of images are as follows:
 * Resolution: 1024 x 1024 pixels
