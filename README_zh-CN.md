@@ -62,7 +62,7 @@
   * [百度网盘](https://pan.baidu.com/s/14SOdWhwHweOhCI6By9i9Ww), 提取码: 40pt
   * [谷歌网盘](https://drive.google.com/drive/folders/1ipQpQmPlfzKhyKQ4ANFsnr2wDEwOAQUf?usp=sharing)
 * 完整数据 ---- 18000 张带标签图片
-  * 即将发布 （2022年9月1号）.
+  * 即将发布。
   * 仅支持申请。如需获取我们的完整数据集，请填写申请表并发送邮件至我们的邮箱（company@bodenai.com）。  [申请表模版](docs/Application_template.docx).
 
 ## 使用条例

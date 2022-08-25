@@ -62,7 +62,7 @@ The images in this dataset are around-view images synthesized from four fisheye 
   * [Baidu Cloud](https://pan.baidu.com/s/14SOdWhwHweOhCI6By9i9Ww), code: 40pt
   * [Google Cloud](https://drive.google.com/drive/folders/1ipQpQmPlfzKhyKQ4ANFsnr2wDEwOAQUf?usp=sharing)
 * 18K images and annotations:
-  * will be released soon （1st/Sep/2022）.
+  * will be released soon.
   * Application Only. Please send an application to our email address (company@bodenai.com). The template of application can be seen [here](docs/Application_template.docx).
 
 ## Terms of Use
