@@ -60,3 +60,26 @@
   </p>
   
   * Other
+ 
+ ## Freespace
+  * **Categories**
+   * freespace
+ 
+ ## Semantic Segmentation
+ * **Categories**
+   * wheel_stop
+   * drains
+   * pedestrian
+   * park_lock
+   * obstacle
+   * lane
+   * ego
+   * pillar
+   * vegetation
+   * curb
+   * wall
+   * slot_line
+   * road_sign
+   * vehicle
+   * speed_bump
+ 
