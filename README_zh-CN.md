@@ -49,7 +49,7 @@
 **标注**: 该数据集的标签内容包括：
 * 库位角点 (已发布)
 * 可行驶区域 (计划中)
-* 语义分割 (计划中)
+* 语义分割 (已发布)
 * 关于标注规范的细节描述请参见 [此处](docs/annotation.md).
 
 **计划**
@@ -61,8 +61,9 @@
 * 样本数据 ---- 2000 张带标签图片
   * [百度网盘](https://pan.baidu.com/s/14SOdWhwHweOhCI6By9i9Ww), 提取码: 40pt
   * [谷歌网盘](https://drive.google.com/drive/folders/1ipQpQmPlfzKhyKQ4ANFsnr2wDEwOAQUf?usp=sharing)
+  * [语义分割的标签](https://drive.google.com/file/d/1MMHc9ti-LRHWsL6rrGGCu_6Pc24hSf3n/view?usp=drive_link)
 * 完整数据 ---- 18000 张带标签图片
-  * 即将发布。
+  * 已发布。
   * 仅支持申请。如需获取我们的完整数据集，请填写申请表并发送邮件至我们的邮箱（company@bodenai.com）。  [申请表模版](docs/Application_template.docx).
 
 ## 使用条例
