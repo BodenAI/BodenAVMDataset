@@ -63,7 +63,7 @@
  
  ## Freespace
   * **Categories**
-   * freespace
+    * freespace
  
  ## Semantic Segmentation
  * **Categories**
