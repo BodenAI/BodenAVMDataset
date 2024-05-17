@@ -49,7 +49,7 @@ The images in this dataset are around-view images synthesized from four fisheye 
 **Annotations**: Annotations of the dataset have following forms:
 * Parking Slot (released)
 * Freespace (planning)
-* Semantic Segmentation (planning)
+* Semantic Segmentation (released)
 * Detailed description of annotation specification can be seen [here](docs/annotation.md).
 
 **Planning**
@@ -61,8 +61,9 @@ The images in this dataset are around-view images synthesized from four fisheye 
 * Download links for 2k sample images and annotations
   * [Baidu Cloud](https://pan.baidu.com/s/14SOdWhwHweOhCI6By9i9Ww), code: 40pt
   * [Google Cloud](https://drive.google.com/drive/folders/1ipQpQmPlfzKhyKQ4ANFsnr2wDEwOAQUf?usp=sharing)
+  * [Semantic Segmentation Labels](https://drive.google.com/file/d/1MMHc9ti-LRHWsL6rrGGCu_6Pc24hSf3n/view?usp=drive_link)
 * 18K images and annotations:
-  * will be released soon.
+  * Released.
   * Application Only. Please send an application to our email address (company@bodenai.com). The template of application can be seen [here](docs/Application_template.docx).
 
 ## Terms of Use
