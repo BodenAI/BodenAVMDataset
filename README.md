@@ -18,7 +18,7 @@ English | [简体中文](README_zh-CN.md)
 </div>
 
 ## News
-[2025] We have release all the 20K images and fully labeled annotations!
+[2025] We have released 20K images and fully labeled annotations!
 
 ## Introduction
 
