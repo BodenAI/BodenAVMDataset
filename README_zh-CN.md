@@ -16,6 +16,8 @@
 
 </div>
 
+## 新闻
+[2025] 我们已经开源了20000张图片和对应的标签！
 
 ## 简介
 
@@ -58,17 +60,17 @@
 
 ## 如何下载
 
-* 样本数据 ---- 2000 张带标签图片
-  * [百度网盘](https://pan.baidu.com/s/14SOdWhwHweOhCI6By9i9Ww), 提取码: 40pt
+* 样本数据 ---- 2000 张带标签图片（谷歌云）
   * [图片](https://drive.google.com/file/d/1Ny5rzYkyNYyX-YVsuMf3Q6zkCzn-Lzgk/view?usp=drive_link)
   * [库位标签](https://drive.google.com/file/d/1K-uHvHfXJ1IsTctzhFC-1yP9G1K1aZ1i/view?usp=drive_link)
   * [语义分割的标签](https://drive.google.com/file/d/1MMHc9ti-LRHWsL6rrGGCu_6Pc24hSf3n/view?usp=drive_link)
   * [可行驶区域的标签](https://drive.google.com/file/d/1gDcxc052jwSc9wCVU0jjTkyY6VWvGjUZ/view?usp=drive_link)
-* 完整数据 ---- 18000 张带标签图片
+* 完整数据 ---- 18000 张带标签图片（谷歌云）
   * [图片](https://drive.google.com/file/d/1ZZVGbOVOOI8Z3iTQUYGZp9dUSJ1c0FBM/view?usp=drive_link)
   * [库位标签](https://drive.google.com/file/d/19KQ9TqvCoMkuqqqezuX2dPEuplErv8Db/view?usp=drive_link)
   * [语义分割标签](https://drive.google.com/file/d/19KQ9TqvCoMkuqqqezuX2dPEuplErv8Db/view?usp=drive_link)
   * [可行驶区域标签](https://drive.google.com/file/d/1jVUDgTkAaXiaO1Zd0ZsRNcZp3_61zAyo/view?usp=drive_link)
+* [百度网盘](https://pan.baidu.com/s/1osNbB1vy6kCZci0J_ifAhg?pwd=rf8f), 提取码: rf8f
 
 ## 使用条例
 数据集的图片和标签是基于CCBY-4.0开源许可证 [Creative Commons Attribution 4.0 License](LICENSE)
