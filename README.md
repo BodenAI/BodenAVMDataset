@@ -5,7 +5,7 @@
 <div align="center">
     <b><font size="5">An industry-leading data provider in autonomous driving field</font></b>
     <sup>
-      <a href="https://www.bodenai.com/">
+      <a href="https://boden.ai/">
         <i><font size="4">Website</font></i>
       </a>
     </sup>
