@@ -18,7 +18,7 @@ English | [简体中文](README_zh-CN.md)
 </div>
 
 ## News
-** 
+** [2025] We have release all the 20K images and fully labeled annotations!
 
 ## Introduction
 
@@ -69,7 +69,7 @@ The images in this dataset are around-view images synthesized from four fisheye 
   * [Parking Slot Labels](https://drive.google.com/file/d/19KQ9TqvCoMkuqqqezuX2dPEuplErv8Db/view?usp=drive_link)
   * [Semantic Segmentaion Labels](https://drive.google.com/file/d/19KQ9TqvCoMkuqqqezuX2dPEuplErv8Db/view?usp=drive_link)
   * [Freespace Labels](https://drive.google.com/file/d/1jVUDgTkAaXiaO1Zd0ZsRNcZp3_61zAyo/view?usp=drive_link)
-* Baidu Cloud(https://pan.baidu.com/s/1osNbB1vy6kCZci0J_ifAhg?pwd=rf8f), code:rf8f 
+* [Baidu Cloud](https://pan.baidu.com/s/1osNbB1vy6kCZci0J_ifAhg?pwd=rf8f), code:rf8f 
 
 ## Terms of Use
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
