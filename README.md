@@ -64,8 +64,10 @@ The images in this dataset are around-view images synthesized from four fisheye 
   * [Semantic Segmentation Labels](https://drive.google.com/file/d/1MMHc9ti-LRHWsL6rrGGCu_6Pc24hSf3n/view?usp=drive_link)
   * [Freespace Labels](https://drive.google.com/file/d/1gDcxc052jwSc9wCVU0jjTkyY6VWvGjUZ/view?usp=drive_link)
 * 18K images and annotations:
-  * Released.
-  * Application Only. Please send an application to our email address (company@bodenai.com). The template of application can be seen [here](docs/Application_template.docx).
+  * [Images](https://drive.google.com/file/d/1ZZVGbOVOOI8Z3iTQUYGZp9dUSJ1c0FBM/view?usp=drive_link)
+  * [Parking Slot Labels](https://drive.google.com/file/d/19KQ9TqvCoMkuqqqezuX2dPEuplErv8Db/view?usp=drive_link)
+  * [Semantic Segmentaion Labels](https://drive.google.com/file/d/19KQ9TqvCoMkuqqqezuX2dPEuplErv8Db/view?usp=drive_link)
+  * [Freespace Labels](https://drive.google.com/file/d/1jVUDgTkAaXiaO1Zd0ZsRNcZp3_61zAyo/view?usp=drive_link)
 
 ## Terms of Use
 The images and annotations of this dataset are licensed under a [Creative Commons Attribution 4.0 License](LICENSE).
